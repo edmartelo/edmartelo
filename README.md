@@ -17,9 +17,9 @@
   To learn more about me, visit my <a target="blank" rel="noopener noreferrer" href="https://martelo.dev.br/">Personal Portfolio</a>, there you can view my full profile.
 </div>
 
-<div align="center">
+<small align="center">
   Unfortunately, I had a problem with my old GitHub (https://github.com/EduardoMartelo), but I am already working on transferring my repositories.
-</div>
+</small>
 
 
 
