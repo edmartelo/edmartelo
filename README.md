@@ -18,8 +18,8 @@
 </div>
 <br>
 <br>
-<div align="center" style="font-size: 10px;">
-  Unfortunately, I had a problem with my old GitHub (https://github.com/EduardoMartelo), but I am already working on transferring my repositories.
+<div align="center">
+  <i>Unfortunately, I had a problem with my old GitHub (https://github.com/EduardoMartelo), but I am already working on transferring my repositories.</i>
 </div>
 
 
