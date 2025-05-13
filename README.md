@@ -13,9 +13,9 @@
 <p>Straight from São Paulo Brazil, I am a lover of technology and everything around it. I'm always learning and willing to take on new challenges.
 </p> -->
 
-<div align="center">
+<-- <div align="center">
   To learn more about me, visit my <a target="blank" rel="noopener noreferrer" href="https://martelo.dev.br/">Personal Portfolio</a>, there you can view my full profile.
-</div>
+</div> -->
 <br>
 <br>
 <div align="center">
