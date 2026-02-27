@@ -26,6 +26,12 @@
 
 ## 
 
+<div align="center"> 
+  To learn more about me, visit my  <a href="https://www.edmartelo.com" target="blank">Personal Portfolio</a>, there you can view my full profile.
+</div>
+
+##
+
 <!-- Badges session -->
 <!-- <span><img src="https://visitor-badge.laobi.icu/badge?page_id=DavidCreator" alt="David Almeida"/></span>
 <a href="https://github.com/DavidCreator" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -101,7 +107,7 @@ const David = {
 </div>
 <br>
 <div align="center">
-  <a href="[https://github.com/EduardoMartelo](https://github.com/edmartelo)">
+  <a href="[https://github.com/edmartelo](https://github.com/edmartelo)">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMartelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartelo&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
