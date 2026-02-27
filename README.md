@@ -22,7 +22,7 @@
   <i>Unfortunately, I had a problem with my old GitHub (https://github.com/EduardoMartelo), but I am already working on transferring my repositories.</i>
 </div>
 
-
+<br>
 
 <div align="center"> 
   To learn more about me, visit my  <a href="https://www.edmartelo.com" target="blank">Personal Portfolio</a>, there you can view my full profile.
