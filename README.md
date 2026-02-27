@@ -24,8 +24,6 @@
 
 
 
-## 
-
 <div align="center"> 
   To learn more about me, visit my  <a href="https://www.edmartelo.com" target="blank">Personal Portfolio</a>, there you can view my full profile.
 </div>
